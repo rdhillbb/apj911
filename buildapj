@@ -1,0 +1,2 @@
+#!/bin/bash
+go build 911apj.go
